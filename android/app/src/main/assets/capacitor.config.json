@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sebidemo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
