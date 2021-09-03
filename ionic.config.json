@@ -1,0 +1,7 @@
+{
+  "name": "sebidemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
